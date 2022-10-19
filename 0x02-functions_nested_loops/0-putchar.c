@@ -1,13 +1,12 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * main - Starting nested loops project by printing _putchar only.
- * Return: 0 (Success)
+ * main - making of task1 0-putchar; printing of all alphabets in lower cases
+ * Return: 0 (success)
  */
 int main(void)
 {
-	char str[] = "_putchar";
+	
 
-	printf("%s\n", str);
 
-	return (0);
+
 }
